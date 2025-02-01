@@ -49,7 +49,7 @@ config = {
 
     # REDIRECTION #
     "redirect": {
-        "redirect": True, # Redirect to a webpage?
+        "redirect": False, # Redirect to a webpage?
         "page": "https://i.imgur.com/qiP1Cqe.png" # Link to the webpage to redirect to 
     },
 
